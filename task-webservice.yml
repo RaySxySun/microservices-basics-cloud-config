@@ -25,9 +25,9 @@ security:
     resource:
       jwt:
         keyValue: |
-          -----BEGIN PUBLIC KEY-----
-          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhVny3DfQqdvQaPj6SJiiFfPRGH/5k3OiAXTCsmpKnL/GVKZpfFjT3LhN7xoj0DzJLTCOE94eOjIHipFzxrL00kBCZJ3HOornKDpTh17yPuqJI6DNmvJaRBbc3SVQsO0vndnDAeOBiv4euGHH97sPZYFqhmwM35PboqxeWaHrfgWcA5F8VFTp+HDPr26G4sv/UqkR1LsfRoD4gzNJswi00eWcNjeoEzy71023VECQYDytUg/wVqWOJnShWOJnCBnuzmjrtOCg6O6ecdHhVaiRI0//ZR71x2oDW5pe+kgVhhM29TH8SVRjbAFh35obN6ppcF3A7PFLf+euZTsmXMaahQIDAQAB
-          -----END PUBLIC KEY-----
+-----BEGIN PUBLIC KEY----- 
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh8ZsJOPLp+s2QWZ5wXGo gx4zp6IZM+V7T666M+gJsFc54d1LMhsfStfgyuAGY2lJNNsVe7FIA8YegG9RVmVa AtZkAF13uMrieysNRMVdEDrerB4EX8kwUxA+BlM1f1riBLzbNnW5bd9DPODfA6BR pEXEdmp9g5MyeeaXYXxfWdyz5xYUcmCP/YALI23LoF71JC9W1jOpk0HxZ73F+90x vOKBwqrPf5I7g/Lrerm8NOoqZJNyOXZrhYGmQOhEnpjX1FESEoimgu4NUq4MVurx 3zZgsx4edPUeFX9DVGZTwePRHoTfdZu5UbmDuzfLf2bhdfId7n4QyuS0fYBY0Kas WQIDAQAB 
+-----END PUBLIC KEY-----
 ---
 # task-webservice instance when used on Docker
 spring:
